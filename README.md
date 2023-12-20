@@ -56,6 +56,8 @@ Before running this script, ensure you have the following installed:
 
 1. **Create Connector Postgres to Debezium**
 
+   Firstly, modifying your config in config/postgresql-csc.example.json
+
    ```bash
    bash streaming/run.sh register_connector configs/postgresql-cdc.json
    ```
