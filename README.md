@@ -6,7 +6,7 @@ This Python script is designed to generate simulated financial transactions and 
 
 ## System Architecture
 
-![system architecture.png](system%20architecture.png)
+![img/system_architecture.png](system_architecture.png)
 
 ## Prerequisites
 
